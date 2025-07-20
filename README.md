@@ -1,5 +1,9 @@
-<div style="display: flex; gap: 10px;">
-  <img src="app/src/main/res/drawable/image1.jpg" alt="ChatBot Image" width="160"/>
-  <img src="app/src/main/res/drawable/image2.jpg" width="200"/>
-  <img src="app/src/main/res/drawable/image3.jpg" width="235"/>
-</div>
+<p align="center"><strong>Here's how it looks</strong></p>
+
+<table align="center">
+  <tr>
+    <td><img src="app/src/main/res/drawable/image1.jpg" width="160"/></td>
+    <td><img src="app/src/main/res/drawable/image2.jpg" width="200"/></td>
+    <td><img src="app/src/main/res/drawable/image3.jpg" width="235"/></td>
+  </tr>
+</table>
